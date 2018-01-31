@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "amazon like CLI application",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kooldrmony/bamazon.git"
+  },
+  "author": "Derrick Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kooldrmony/bamazon/issues"
+  },
+  "homepage": "https://github.com/kooldrmony/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "mysql": "^2.15.0"
+  }
+}
