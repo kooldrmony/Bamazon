@@ -2,7 +2,7 @@
 
 This application is an amazon-like application that allows the user/customer to select from a certain number of items (in this case, 10 items) and place an order of how ever many units of that item they so choose to purchase. If there is sufficient amount of that item, the application will allow the transaction and provide the total amount of the purchase. If, however, there is not enough units of that item in stock, the application will notify the customer and cancel the order.
 
-**How to deploy the Bamazon Application**
+## **How to deploy the Bamazon Application**
 
 To deploy the application on your computer, simply clone the git repository to onto your command line so that you can access the application.
 
@@ -17,14 +17,14 @@ If there is sufficient supplies of that item in the database, the application wi
 
 If there is insufficient supplies of the item, the application will notify you and cancel the order.
 
-**Technologies Used**
+## **Technologies Used**
 
 The following programs/technologies were used in creating of this application:
 
 1. NodeJS
 2. MySQL
 
-**NPM Packages Used**
+## **NPM Packages Used**
 
 There were a total of two NPM packages that were used for this application and those are:
 
