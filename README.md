@@ -28,5 +28,5 @@ The following programs/technologies were used in creating of this application:
 
 There were a total of two NPM packages that were used for this application and those are:
 
-1.MYSQL
-2.Inquirer
+   1.MYSQL
+   2.Inquirer
