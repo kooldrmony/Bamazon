@@ -8,8 +8,7 @@ To deploy the application on your computer, simply clone the git repository to o
 
 Once you have cloned the repository onto your computer, you will type in *node bamazonCustomer.js* into your command line to deploy the application. Below is an example of this:
 
-![Screenshot](/Screenshot (8).png)
-Format: ![Alt Text](url)
+![Screenshot](Screenshot1.png)
 
 
 After you input that command in your command line it will deploy the application and show the list of available items in the store along with a prompt question asking you to choose the item number of the item you wish to purchase. 
