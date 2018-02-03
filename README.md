@@ -17,7 +17,11 @@ After you input that command in your command line it will deploy the application
 
 Once you enter the id number of the item, a second prompt question will occur asking you the number of units you would like to purchase of this item.
 
+![Screenshot](Screenshot3.png)
+
 If there is sufficient supplies of that item in the database, the application will give you the total amount for the purchase. Additionally, it will also update the database with the new/remaining number of units for that item in the database.
+
+![Screenshot](Screenshot4.png)
 
 If there is insufficient supplies of the item, the application will notify you and cancel the order.
 
