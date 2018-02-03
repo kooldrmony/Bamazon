@@ -8,20 +8,20 @@ To deploy the application on your computer, simply clone the git repository to o
 
 Once you have cloned the repository onto your computer, you will type in *node bamazonCustomer.js* into your command line to deploy the application. Below is an example of this:
 
-![Screenshot](Screenshot1.png)
+![Screenshot](step1.png)
 
 
 After you input that command in your command line it will deploy the application and show the list of available items in the store along with a prompt question asking you to choose the item number of the item you wish to purchase. 
 
-![Screenshot](Screenshot2.png)
+![Screenshot](Step2.png)
 
 Once you enter the id number of the item, a second prompt question will occur asking you the number of units you would like to purchase of this item.
 
-![Screenshot](Screenshot3.png)
+![Screenshot](step3.png)
 
 If there is sufficient supplies of that item in the database, the application will give you the total amount for the purchase. Additionally, it will also update the database with the new/remaining number of units for that item in the database.
 
-![Screenshot](Screenshot4.png)
+
 
 
 If there is insufficient supplies of the item, the application will notify you and cancel the order.
