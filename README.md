@@ -13,6 +13,8 @@ Once you have cloned the repository onto your computer, you will type in *node b
 
 After you input that command in your command line it will deploy the application and show the list of available items in the store along with a prompt question asking you to choose the item number of the item you wish to purchase. 
 
+![Screenshot](Screenshot2.png)
+
 Once you enter the id number of the item, a second prompt question will occur asking you the number of units you would like to purchase of this item.
 
 If there is sufficient supplies of that item in the database, the application will give you the total amount for the purchase. Additionally, it will also update the database with the new/remaining number of units for that item in the database.
