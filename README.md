@@ -26,6 +26,8 @@ If there is sufficient supplies of that item in the database, the application wi
 
 If there is insufficient supplies of the item, the application will notify you and cancel the order.
 
+![Screenshot](step5.png)
+
 ## **Technologies Used**
 
 The following programs/technologies were used in creating of this application:
